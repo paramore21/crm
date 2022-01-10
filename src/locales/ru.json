@@ -1,0 +1,23 @@
+{
+  "main": "Главная",
+  "users": "Пользователи",
+  "settings": "Настройка",
+  "requests": "Заявки",
+  "archive": "Архив",
+  "operators": "Операторы",
+  "login": "Войти",
+  "logout": "Выйти",
+  "register": "Подать заявку",
+  "notifications": "Уведомления",
+  "ok": "Подтвердить",
+  "cancel": "Отменить",
+  "loginDescription": "Войдите в свой аккаунт",
+  "forgotPassword": "Забыли пароль?",
+  "username": "Логин",
+  "password": "Пароль",
+  "registerNow": "Подать заявку сейчас!",
+  "appeals": "Обращения",
+  "account": "Учётная запись",
+  "payment": "Оплаты",
+  "projects": "Проекты"
+}
